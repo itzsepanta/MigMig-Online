@@ -87,6 +87,6 @@ This software is proprietary. Redistribution, reverse engineering, or unauthoriz
 
 <div align="center">
 
-**Made with ❤️ and ☕ by the MigMig team**
+**Made with ❤️ and ☕ by the RyxoStudio**
 
 </div>
