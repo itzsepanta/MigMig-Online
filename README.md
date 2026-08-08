@@ -6,14 +6,12 @@
 
 ### ⚡ Next-Generation VPN Client for Windows — Fast, Private, Beautiful.
 
-**VLESS · Reality · XHTTP · WebSocket · gRPC** wrapped in a premium desktop experience.
-
 [![Version](https://img.shields.io/badge/version-26.1.3-7C3AED?style=for-the-badge)](#-download)
 [![Platform](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#-download)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Wt3vD45hu2)
 [![Website](https://img.shields.io/badge/ryxo.ir-Visit-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ryxo.ir)
 
-[📥 Download](#-download) · [✨ Features](#-features) · [💬 Discord](https://discord.gg/Wt3vD45hu2) · [🌐 Website](https://ryxo.ir)
+[Download](#-download) · [Features](#-features) · [Website](https://ryxo.ir)
 
 </div>
 
