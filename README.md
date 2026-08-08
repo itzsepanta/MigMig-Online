@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cold-eu-agl-1.gofile.io/download/web/8fb34dd4-33bd-44a9-8162-03c64dfb2fb2/migmig1.png" width="120" alt="MigMig Online">
+<img src="resources/favicon.ico" width="120" alt="MigMig Online">
 
 # MigMig Online
 
