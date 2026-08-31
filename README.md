@@ -6,10 +6,10 @@
 
 ### ⚡ Next-Generation VPN Client for Windows — Fast, Private, Beautiful.
 
-[![Version](https://img.shields.io/badge/version-26.1.3-7C3AED?style=for-the-badge)](#-download)
+[![Version](https://img.shields.io/badge/version-26.1.4-7C3AED?style=for-the-badge)](#-download)
 [![Platform](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#-download)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Wt3vD45hu2)
-[![Website](https://img.shields.io/badge/ryxo.ir-Visit-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ryxo.ir)
+[![Website](https://img.shields.io/badge/migmig.online-Visit-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://migmig.online)
 
 </div>
 
@@ -59,7 +59,7 @@ Designed with a beautiful UI, real-time traffic stats, account management, and a
 
 | Platform | Status | Link |
 |----------|--------|------|
-| Windows 10 / 11 (x64) | ✅ Available | [**Download Installer**](https://ryxo.ir/download) |
+| Windows 10 / 11 (x64) | ✅ Available | [**Download Installer**](https://migmig.online/download) |
 | Linux | 🚧 Coming Soon | — |
 | Android | 🚧 Coming Soon | — |
 
@@ -72,16 +72,8 @@ Designed with a beautiful UI, real-time traffic stats, account management, and a
 | Channel | Link |
 |---------|------|
 | **Discord** | [discord.gg/Wt3vD45hu2](https://discord.gg/Wt3vD45hu2) |
-| **Website** | [ryxo.ir](https://ryxo.ir) |
+| **Website** | [migmig.online](https://migmig.online) |
 | **Telegram** | [t.me/migmig_online](https://t.me/migmig_online) |
-
----
-
-## 📜 License
-
-© 2026 **MigMig Online**. All rights reserved.
-
-This software is proprietary. Redistribution, reverse engineering, or unauthorized use is strictly prohibited without written permission from the author.
 
 ---
 
