@@ -10,16 +10,13 @@
 
 <br>
 
-<!-- Status Badges -->
 [![Version](https://img.shields.io/badge/version-26.1.4-7C3AED?style=for-the-badge&logo=semanticrelease&logoColor=white)](#-download)
 [![Status](https://img.shields.io/badge/status-stable-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 [![Platform](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](#-download)
-
-<!-- Community & Links -->
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Wt3vD45hu2)
 [![Website](https://img.shields.io/badge/migmig.online-Visit-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://migmig.online)
 [![Telegram](https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/migmig_online)
-[![Downloads](https://img.shields.io/github/downloads/itzsepanta/MigMig-Online/total?style=for-the-badge&logo=github&color=8B5CF6&labelColor=181717&label=Total%20Downloads)](https://github.com/itzsepanta/MigMig-Online/releases)
+[![Downloads](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/itzsepanta/de8cdefc5388bf2149dcda9815dc5ba1/raw/migmig-downloads.json)](https://github.com/itzsepanta/MigMig-Online/releases)
 
 </div>
 
